@@ -18,8 +18,8 @@ Add a bit of wholesomeness (or snarkiness) to your discord server.
 
 ## terms.json
 
-Each value in terms.json is a RegEx that gets evaluated for each NoUBot reads.  NoUBot uses that to determine if it should 
-reply with a 'no u' or not.  
+Each value in terms.json is a RegEx that gets evaluated for each message NoUBot reads.  NoUBot uses that to 
+determine if it should reply with a 'no u' or not.  
 
 
 

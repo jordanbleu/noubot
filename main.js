@@ -66,4 +66,4 @@ var getUsernamesMentioned = function(message) {
     return usernames;
 }
 
-client.login("ODMyMzk1NDQ0NzU1NzU5MTI0.YHjKqw.-fZY73MCvzLtr-b5gD6t17-xCtA");
+client.login("{paste token here}");

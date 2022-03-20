@@ -1,0 +1,14 @@
+{
+  "name": "noubot",
+  "version": "1.0.0",
+  "description": "Responds to wholesome or mean messages with no u",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Bleu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
